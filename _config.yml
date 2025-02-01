@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "YTT"
+title                    : "Manuel Zerobin"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Manuel Zerobin"
+description              : &description "Economist @ WIFO | Applied Microeconomics | Long-Term-Care - Health - Crime - Labor | Professional Skipper Worldwide"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
