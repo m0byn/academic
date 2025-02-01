@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Manuel Zerobin"
 title_separator          : "-"
 name                     : &name "Manuel Zerobin"
-description              : &description "Economist @ WIFO | Applied Microeconomics | Long-Term-Care - Health - Crime - Labor | Professional Skipper Worldwide"
+description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Business.jpg"
+  name             : "Econ Sailor"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Vienna, Austria"
+  employer         : "Austrian Institute of Economic Research (WIFO)"
   uri              : # URL
   email            : "none@example.org" 
 
