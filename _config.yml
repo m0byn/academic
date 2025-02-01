@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Business.jpg"
-  name             : "Econ Sailor"
+  name             : "Manuel Zerobin"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Vienna, Austria"
-  employer         : "Austrian Institute of Economic Research (WIFO)"
+  employer         : "WIFO"
   uri              : # URL
   email            : "none@example.org" 
 
